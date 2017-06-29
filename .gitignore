@@ -1,0 +1,18 @@
+# virtual env catalog
+env*/
+
+# python cache
+__pycache__/*
+
+# compiled
+*.py[cod]
+
+# in this file some login info
+check.py
+secret.py
+
+# vienv tools
+Activate.bat
+Create venv.bat
+Deactivate.bat
+vIDLE.bat
